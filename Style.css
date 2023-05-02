@@ -1,0 +1,41 @@
+h3 {
+	color: #003F73;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+input {
+	background-color:#C2E3FF;
+	border: none;
+	height: 30px;
+
+}
+
+.graph {
+	height:150px;
+	width: 50px;
+	background-color: #008cFF;
+}
+
+.barchart {
+	background-color: #008cFF;
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+}
+
+.charts {
+	display: flex;
+	justify-content: space-evenly;
+	position: relative;
+	top: 50px;
+}
+
+span {
+	position: relative;
+	top: 200px;
+	right: 170px;
+	color: #003F73;
+	font-family: sans-serif;
+	font-weight: bold;
+}
